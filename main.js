@@ -23,5 +23,5 @@ rpc.on("ready", () => {
 });
 
 rpc.login({
-    clientId: "822514237556654101"
+    clientId: "Your ID Application ID"
 });
