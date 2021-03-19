@@ -12,6 +12,7 @@ rpc.on("ready", () => {
         state: "WoooW Interesting!",
         startTimestamp: new Date(),
         largeImageKey: "dc_icon",
+//use this link https://imgur.com/a/D4w7D40 and add it to ur discord rpc icons at bottom of site
         largeImageText: "Discord!",
 //        smallImageKey: "discord_red",
         smallImageText: "Discord!"
@@ -25,3 +26,5 @@ rpc.on("ready", () => {
 rpc.login({
     clientId: "Your ID Application ID"
 });
+
+//By Tyede Don't Disturb!
