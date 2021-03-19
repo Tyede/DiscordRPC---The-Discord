@@ -1,3 +1,3 @@
-# This Is a Private Project.
+# This Is a Public Project.
 
-So dont disturb!
+So dont disturb! Anbd just use it!
